@@ -1,6 +1,5 @@
 {
-  "users": [
-    {
+  "users": [{
       "id": "1677499723581",
       "username": "rom@gmal.com",
       "password": "123456789"
@@ -41,8 +40,7 @@
       "password": "123456789"
     }
   ],
-  "products": [
-    {
+  "products": [{
       "id": 0,
       "imageUrl": [
         "https://www.ecurat.md/storage/uploads/80cf3b45-0789-4fc2-9e84-c556b9e681f6/d3-5l-1.jpg",
@@ -223,12 +221,10 @@
       "rating": 7
     }
   ],
-  "categories": [
-    {
+  "categories": [{
       "id": 0,
       "name": "Моющие средства",
-      "subcategory": [
-        {
+      "subcategory": [{
           "id": 0,
           "name": "Кухни"
         },
@@ -261,8 +257,7 @@
     {
       "id": 1,
       "name": "Товары из бумаги",
-      "subcategory": [
-        {
+      "subcategory": [{
           "id": 7,
           "name": "Полотенца для рук"
         },
@@ -285,8 +280,7 @@
       ]
     }
   ],
-  "comands": [
-    {
+  "comands": [{
       "name": "Roman",
       "phone": "+374 69046330",
       "title": "Рассчитайте стоимость, указав длину и ширину, или сразу площадь:",
@@ -308,62 +302,663 @@
       "id": 3
     }
   ],
-  "news":[
-    {
+  "news": [{
       "id": "1",
       "title": "Очищение ковров",
-      "date":"2 iunie",
+      "date": "2 iunie",
       "text": "Большинство производителей ковров рекомендуют чистку паром или системами, использующими воду высокой температуры. Чистящие средства должны соответствовать типу волокна, из которого изготовлен ковер. Синтетические волокна наиболее практичны и легко поддаются чистке. Для натуральных волокон, будь то лен, джут, шерсть или шелк, следует использовать специальное ковровое мыло или шампунь, не содержащие химических веществ, которые могут разрушить волокна.     Если вы решили чистить ковры дома, примите во внимание несколько советов:     Глубокую чистку ковров следует проводить до того, как они станут очень грязными, иначе это будет очень сложно. Частота чистки зависит от интенсивности движения в вашем доме (учитывайте домашних животных), а также от типа ковров. Толстые ковры из натуральных волокон следует чистить чаще, ковры и синтетические ковры - реже, именно потому, что их регулярный уход эффективен.   Тщательно пылесосьте ковер как до, так и после чистки: перед чисткой его следует пропылесосить, чтобы удалить как можно больше загрязнений, а после чистки водой, паром или различными растворами - чтобы собрать остатки загрязнений, удаленных при чистке, и подцепить нити ткани.   Для трудновыводимых пятен существуют решения в зависимости от типа пятна и его возраста. Вы можете использовать коммерческие растворы для чистки ковров на основе пены, а также растворители или растворы, которые все равно есть у вас дома. Очистите место, где есть пятно, но также и вокруг пятна, чтобы не оставить на ковре яркий глаз, такой же заметный, как и пятно.   Всегда используйте тряпку или губку и никогда не лейте раствор для чистки ковров прямо на пятно.  Моющее средство для мытья посуды также очень хорошо подходит для ковров. Смешайте чайную ложку жидкости для мытья посуды с чашкой горячей воды. Немедленно используйте раствор для удаления пятен от пищи и жира. Используйте губку, смоченную в растворе, хорошо потрите пятно, а затем промокните пятно салфеткой и/или пропылесосьте.    Используйте масло-растворитель или жидкость для снятия ла",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/03.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
+      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/03.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
 
     },
     {
       "id": "2",
       "title": "Очищение ковров",
-      "date":"2 iunie",
+      "date": "2 iunie",
       "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
+      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
 
     },
     {
       "id": "3",
       "title": "Очищение ковров",
-      "date":"2 iunie",
+      "date": "2 iunie",
       "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
+      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
 
     },
     {
       "id": "4",
       "title": "Очищение ковров",
-      "date":"9 iunie",
+      "date": "9 iunie",
       "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
+      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
 
     },
     {
       "id": "5",
       "title": "Очищение ковров",
-      "date":"2 iunie",
+      "date": "2 iunie",
       "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
+      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
 
     },
     {
       "id": "7",
       "title": "Очищение ковров",
-      "date":"10 iunie",
+      "date": "10 iunie",
       "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
+      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
 
     },
     {
       "id": "6",
-      "date":"2 iunie",
+      "date": "2 iunie",
       "title": "Очищение ковров",
       "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
+      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png", "https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
 
+    }
+  ],
+  "jobs": [{
+      "id": 1,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/01.png",
+      "name": "Product Designer - Racuten Analytics",
+      "author": "Racuten",
+      "country": "Afghanistan",
+      "date": "08.04.2023",
+      "salary": "8000",
+      "text": "Full stack developer Magic is an international SaaS technology company. Our flagship product is an SMS messaging platform used worldwide (including the USA, UK, Canada, and Australia)...",
+      "category": "Develope",
+      "types": "Fulltime",
+      "experience": "3-5 years",
+      "level": "Middle Level",
+      "rating": "5",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 2,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/02.png",
+      "name": "Narrative designer",
+      "author": "Invision",
+      "country": "Australia",
+      "salary": "8000",
+      "date": "08.02.2023",
+      "rating": "3",
+      "text": "Frogwares is currently looking for a Narrative Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games which are highly praised by millions of players, as well as industry experts all over the world.",
+      "category": "Design",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "0-2 years",
+      "level": "Junior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 3,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/03.png",
+      "name": "UX UI Designer - Intermediate Position",
+      "author": "Spotify",
+      "country": "Germany",
+      "salary": "7000",
+      "date": "10.04.2023",
+      "rating": "2",
+      "text": "At Remitbee, we value innovation and diversity to help our team, and the world thrive. In a culture that promotes ethical values, mentorship, flexibility, and inclusion",
+      "category": "Design",
+      "types": "No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 4,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/04.png",
+      "name": "Quest designer",
+      "author": "Airbnb",
+      "country": "Moldova",
+      "date": "09.01.2023",
+      "salary": "7000",
+      "rating": "4",
+      "category": "Design",
+      "text": "Frogwares is currently looking for a Quest Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games that are highly praised by millions of players, as well as industry experts all over the world.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "10+ years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 5,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/05.png",
+      "name": "Middle Product UX Designer",
+      "author": "Google",
+      "country": "Moldova",
+      "salary": "7000",
+      "rating": "2",
+      "category": "Design",
+      "text": "You will be part of the core team that has full control over the ‘what’ and ‘how’ of the digital product, and report directly to the Covantis design lead. You will help decide what the product looks like and how it behaves, working alongside designers, researchers, developers, product managers, and salespeople.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "date": "08.01.2023",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 6,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/02.png",
+      "name": "Narrative designer",
+      "author": "Invision",
+      "country": "Australia",
+      "salary": "8000",
+      "date": "08.02.2023",
+      "rating": "3",
+      "text": "Frogwares is currently looking for a Narrative Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games which are highly praised by millions of players, as well as industry experts all over the world.",
+      "category": "Design",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "0-2 years",
+      "level": "Junior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 7,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/03.png",
+      "name": "UX UI Designer - Intermediate Position",
+      "author": "Spotify",
+      "country": "Germany",
+      "salary": "7000",
+      "date": "10.04.2023",
+      "rating": "2",
+      "text": "At Remitbee, we value innovation and diversity to help our team, and the world thrive. In a culture that promotes ethical values, mentorship, flexibility, and inclusion",
+      "category": "Design",
+      "types": "No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 8,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/04.png",
+      "name": "Quest designer",
+      "author": "Airbnb",
+      "country": "Moldova",
+      "date": "09.01.2023",
+      "salary": "7000",
+      "rating": "4",
+      "category": "Design",
+      "text": "Frogwares is currently looking for a Quest Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games that are highly praised by millions of players, as well as industry experts all over the world.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "10 years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 9,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/05.png",
+      "name": "Middle Product UX Designer",
+      "author": "Google",
+      "country": "Moldova",
+      "salary": "7000",
+      "rating": "2",
+      "category": "Design",
+      "text": "You will be part of the core team that has full control over the ‘what’ and ‘how’ of the digital product, and report directly to the Covantis design lead. You will help decide what the product looks like and how it behaves, working alongside designers, researchers, developers, product managers, and salespeople.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "date": "08.01.2023",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "author": "romancazac999@gmail.com",
+      "name": "Product Designer - Racuten Analytics",
+      "salary": "4000",
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/01.png",
+      "experience": "6-9 years",
+      "category": "Marketing",
+      "types": "Hourly",
+      "text": "Full stack developer Magic is an international SaaS technology company. Our flagship product is an SMS messaging platform used worldwide (including the USA, UK, Canada, and Australia)...",
+      "checkbox": true,
+      "rating": "0",
+      "date": "8 май 2023",
+      "country": "Moldova",
+      "id": 10
+    }
+  ],
+  "candidats": [{
+      "id": 1,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/01.png",
+      "name": "Syeda Johnston, 22 y.o.",
+      "author": "Racuten",
+      "country": "Afghanistan",
+      "date": "08.04.2023",
+      "salary": "8000",
+      "text": "Part-time. 2.6 years experience. Higher education",
+      "category": "Develope",
+      "types": "Fulltime",
+      "experience": "3-5 years",
+      "level": "Middle Level",
+      "rating": "5",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 2,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/02.png",
+      "name": "Narrative designer",
+      "author": "Syeda Johnston, 22 y.o.",
+      "country": "Australia",
+      "salary": "8000",
+      "date": "08.02.2023",
+      "rating": "3",
+      "text": "Frogwares is currently looking for a Narrative Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games which are highly praised by millions of players, as well as industry experts all over the world.",
+      "category": "Design",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "0-2 years",
+      "level": "Junior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 3,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/03.png",
+      "name": "UX UI Designer - Intermediate Position",
+      "author": "Spotify",
+      "country": "Germany",
+      "salary": "7000",
+      "date": "10.04.2023",
+      "rating": "2",
+      "text": "At Remitbee, we value innovation and diversity to help our team, and the world thrive. In a culture that promotes ethical values, mentorship, flexibility, and inclusion",
+      "category": "Design",
+      "types": "No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 4,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/04.png",
+      "name": "Quest designer",
+      "author": "Airbnb",
+      "country": "Moldova",
+      "date": "09.01.2023",
+      "salary": "7000",
+      "rating": "4",
+      "category": "Design",
+      "text": "Frogwares is currently looking for a Quest Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games that are highly praised by millions of players, as well as industry experts all over the world.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "10+ years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 5,
+      "avatar": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/cadidats/05.png",
+      "name": "Middle Product UX Designer",
+      "author": "Google",
+      "country": "Moldova",
+      "salary": "7000",
+      "rating": "2",
+      "category": "Design",
+      "text": "You will be part of the core team that has full control over the ‘what’ and ‘how’ of the digital product, and report directly to the Covantis design lead. You will help decide what the product looks like and how it behaves, working alongside designers, researchers, developers, product managers, and salespeople.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "date": "08.01.2023",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    }
+  ],
+  "articles": [{
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/01.jpg",
+      "name": "Working Multiple Remote Jobs: What You Need to know",
+      "date": "9 Sep 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "4"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b1.png",
+      "name": "How to Figure Out If a Potential Employer Offers Paid Leave",
+      "date": "9 Sep 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "4"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b2.png",
+      "name": "The Hidden Savings (and Costs) of Working From Home",
+      "date": "28 Oct 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "4"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b3.png",
+      "name": "25 Companies Hiring for Remote, Work-From-Home Jobs Right Now",
+      "date": "21 Aug 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "5"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b4.png",
+      "name": "How Working From Home Can Reduce Stress",
+      "date": "9 Sep 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "5"
+    },
+    {
+      "id": 6,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b5.png",
+      "name": "How intrapreneurship can help you stand out at work ",
+      "date": "9 Apr 2023",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "5"
+    },
+    {
+      "id": 7,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b6.png",
+      "name": "How to Know Your Resume Is Ready to be Submitted",
+      "date": "20 Apr 2023",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Interviews",
+      "rating": "5"
+    },
+    {
+      "id": 8,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b7.png",
+      "name": "How to Sharpen Your Social Skills When You WFH",
+      "date": "11 Apr 2023",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Interviews",
+      "rating": "5"
+    },
+    {
+      "id": 9,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b8.png",
+      "name": "How to explain why you’re right for the job",
+      "date": "15 Aug 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Interviews",
+      "rating": "4"
+    },
+    {
+      "id": 10,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b9.png",
+      "name": "How do you answer the question, “How do you like to be managed?”",
+      "date": "16 May 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "5"
+    },
+    {
+      "id": 11,
+      "img": "https://raw.githubusercontent.com/romancazac/developli/main/src/assets/img/blog/b10.png",
+      "name": "Tips for shaking your job interview jitters",
+      "date": "24 Dec 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "4"
+    }
+  ],
+  "apply": [{
+      "email": "gh@dgfg",
+      "file": "C:\\fakepath\\315222649_797770061294384_7071935775069182972_n.jpg",
+      "phone": "0500000",
+      "username": "fhh",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
+      "id": 1
+    },
+    {
+      "email": "gh@dgfg",
+      "file": "C:\\fakepath\\315222649_797770061294384_7071935775069182972_n.jpg",
+      "phone": "0500000",
+      "username": "fhh",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
+      "id": 2
+    },
+    {
+      "email": "adsfdsaf@fdgfg.md",
+      "file": "C:\\fakepath\\315222649_797770061294384_7071935775069182972_n.jpg",
+      "phone": "069046330",
+      "username": "Jora",
+      "title": "Product Designer - Racuten Analytics",
+      "applyId": 1,
+      "id": 3
+    },
+    {
+      "email": "cristina@gmail.com",
+      "file": "",
+      "phone": "06049600",
+      "username": "romancazac999@gmail.com",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
+      "id": 4
+    },
+    {
+      "email": "cristina@gmail.com",
+      "file": "",
+      "phone": "06049600",
+      "username": "romancazac999@gmail.com",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
+      "id": 5
+    },
+    {
+      "email": "romancazac23@icloud.com",
+      "file": "",
+      "phone": "+374 69046330",
+      "username": "romancazac999@gmail.com",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
+      "id": 6
+    }
+  ],
+  "form-contacts": [{
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "4",
+      "salesSize": "3",
+      "message": "Mesage",
+      "id": 1
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 2
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 3
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 4
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 5
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 6
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 7
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 8
+    },
+    {
+      "name": "Roman",
+      "firstname": "Roman",
+      "email": "romancazac23@icloud.com",
+      "company": "fghgfhdsfdsfdsfdsf",
+      "checkbox": true,
+      "companySize": "3",
+      "salesSize": "4",
+      "message": "fgthfgh",
+      "id": 9
+    },
+    {
+      "name": "Roman",
+      "firstname": "Roman",
+      "email": "romancazac@yahoo.com",
+      "company": "fghgfhdsfdsfdsfdsf",
+      "checkbox": true,
+      "companySize": "3",
+      "salesSize": "2",
+      "message": "yuii",
+      "id": 10
+    },
+    {
+      "name": "Roman",
+      "firstname": "Roman",
+      "email": "romancazac@yahoo.com",
+      "company": "fghgfhdsfdsfdsfdsf",
+      "checkbox": true,
+      "companySize": "3",
+      "salesSize": "2",
+      "message": "yuii",
+      "id": 11
     }
   ]
 }
