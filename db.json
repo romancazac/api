@@ -1,369 +1,922 @@
 {
   "users": [
     {
-      "id": "1677499723581",
-      "username": "rom@gmal.com",
-      "password": "123456789"
-    },
-    {
-      "id": "1678695098339",
-      "username": "Roman2333",
-      "phone": "69046330",
-      "email": "cristina@gmail.com",
-      "password": "123456789"
-    },
-    {
-      "id": "1678695326494",
-      "username": "just ",
-      "phone": "69046330",
-      "email": "romancazac999@gmail.com",
-      "password": "123456789"
-    },
-    {
-      "id": "1678696711759",
-      "username": "romancazac",
-      "phone": "+374 69046330",
-      "email": "romancazac999@gmail.com",
-      "password": "123456789"
-    },
-    {
-      "id": "1678696813398",
-      "username": "rom",
-      "phone": "+374 69046330",
-      "email": "romancazac23@icloud.com",
-      "password": "123456789"
-    },
-    {
-      "id": "1678699957049",
-      "username": "rom@gmal.com",
-      "phone": "69046330",
+      "id": "1682944458070",
+      "username": "romancazac999@gmail.com",
+      "phone": "06049600",
       "email": "cristina@gmail.com",
       "password": "123456789"
     }
   ],
-  "products": [
+  "profile-info": [
     {
-      "id": 0,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/80cf3b45-0789-4fc2-9e84-c556b9e681f6/d3-5l-1.jpg",
-        "https://www.ecurat.md/storage/uploads/80cf3b45-0789-4fc2-9e84-c556b9e681f6/d3-5l-1.jpg",
-        "https://www.ecurat.md/storage/uploads/80cf3b45-0789-4fc2-9e84-c556b9e681f6/d3-5l-1.jpg"
+      "personalInfo": [
+        {
+          "fullName": "Roman",
+          "speciality": "Front End",
+          "date of birth": "23.06.1992",
+          "gender": "Mascule",
+          "about": "I'm front end developer "
+        }
       ],
-      "name": "Degreaser Force D3 - 5L",
-      "brand": "Domestos",
-      "price": 190,
-      "category": "Кухни",
-      "rating": 4
+      "id": 0
     },
     {
       "id": 1,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
+      "contacts": [
+        {
+          "phone": "06904633",
+          "email": "romancazac23@icloud.com",
+          "links": [
+            {
+              "url": "https://github.com/romancazac",
+              "name": "Website",
+              "icon": "icon-dribbble"
+            },
+            {
+              "url": "https://www.instagram.com/a.c.e_f",
+              "name": "Instagram",
+              "icon": "icon-instagram"
+            },
+            {
+              "url": "https://www.facebook.com/roman.cazac.3",
+              "name": "Facebook",
+              "icon": "icon-facebook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "experience": [
+        {
+          "id": "4f44d5d7-117f-6ca1-8951-35b4b7b70b11",
+          "position": "Front ",
+          "employment": "Frelance",
+          "agency": "Dis Agency",
+          "location": "Front end ",
+          "perioad": "--"
+        },
+        {
+          "id": "ef8a4601-7801-e6a0-d50d-3b9729a2c6fa",
+          "position": "Front end ",
+          "employment": "FullTime",
+          "agency": "Dis Agency",
+          "location": "Front end ",
+          "perioad": "2022-05-15--2019-05-15"
+        },
+        {
+          "position": "Front end developer",
+          "employment": "FullTime",
+          "agency": "Dis Agency",
+          "location": "Moldova",
+          "perioad": "2023-06-15--2023-06-15",
+          "id": "bf77f5f6-e3e6-3d2e-ade8-df4955ffd7dc"
+        }
       ],
-      "name": "Хлорсодержащие таблетки - Suma Tab D4",
-      "brand": "Domestos",
-      "price": 369,
-      "category": "Кухни",
-      "rating": 6
+      "id": 2
+    },
+    {
+      "education": [
+        {
+          "position": "USM  IT software",
+          "employment": "FullTime",
+          "agency": "Dis Agency",
+          "location": "Front end developer",
+          "perioad": "--",
+          "id": "e325be1b-808d-e5b4-137c-1d6fceed9305"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "avatar": "/src/assets/img/cadidats/01.png",
+      "name": "Product Designer - Racuten Analytics",
+      "author": "Racuten",
+      "country": "Afghanistan",
+      "date": "08.04.2023",
+      "salary": "8000",
+      "text": "Full stack developer Magic is an international SaaS technology company. Our flagship product is an SMS messaging platform used worldwide (including the USA, UK, Canada, and Australia)...",
+      "category": "Develope",
+      "types": "Fulltime",
+      "experience": "3-5 years",
+      "level": "Middle Level",
+      "rating": "5",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
     },
     {
       "id": 2,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Suma star Plus D1 - 1.5L",
-      "brand": "Domestos",
-      "price": 390,
-      "category": "Ручная мойка посуды",
-      "rating": 4
+      "avatar": "/src/assets/img/cadidats/02.png",
+      "name": "Narrative designer",
+      "author": "Invision",
+      "country": "Australia",
+      "salary": "8000",
+      "date": "08.02.2023",
+      "rating": "3",
+      "text": "Frogwares is currently looking for a Narrative Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games which are highly praised by millions of players, as well as industry experts all over the world.",
+      "category": "Design",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "0-2 years",
+      "level": "Junior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
     },
     {
       "id": 3,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "ManuDish D1 - 5L",
-      "brand": "Kolin's",
-      "price": 275,
-      "category": "Ручная мойка посуды",
-      "rating": 2
+      "avatar": "/src/assets/img/cadidats/03.png",
+      "name": "UX UI Designer - Intermediate Position",
+      "author": "Spotify",
+      "country": "Germany",
+      "salary": "7000",
+      "date": "10.04.2023",
+      "rating": "2",
+      "text": "At Remitbee, we value innovation and diversity to help our team, and the world thrive. In a culture that promotes ethical values, mentorship, flexibility, and inclusion",
+      "category": "Design",
+      "types": "No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
     },
     {
       "id": 4,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Taia гель для посуды (5L)",
-      "brand": "Kolin's",
-      "price": 59,
-      "category": "Ручная мойка посуды",
-      "rating": 8
+      "avatar": "/src/assets/img/cadidats/04.png",
+      "name": "Quest designer",
+      "author": "Airbnb",
+      "country": "Moldova",
+      "date": "09.01.2023",
+      "salary": "7000",
+      "rating": "4",
+      "category": "Design",
+      "text": "Frogwares is currently looking for a Quest Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games that are highly praised by millions of players, as well as industry experts all over the world.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "10+ years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
     },
     {
       "id": 5,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Clean Crystal Rinse A8 5L ",
-      "brand": "Kolin's",
-      "price": 580,
-      "category": "Посудомоечные машины",
-      "rating": 2
+      "avatar": "/src/assets/img/cadidats/05.png",
+      "name": "Middle Product UX Designer",
+      "author": "Google",
+      "country": "Moldova",
+      "salary": "7000",
+      "rating": "2",
+      "category": "Design",
+      "text": "You will be part of the core team that has full control over the ‘what’ and ‘how’ of the digital product, and report directly to the Covantis design lead. You will help decide what the product looks like and how it behaves, working alongside designers, researchers, developers, product managers, and salespeople.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "date": "08.01.2023",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
     },
     {
       "id": 6,
-      "imageUrl": [
-        "https://ecurat.md/assets/images/products/59/small/a8-01-montazhnaya-oblast-1.jpg",
-        "https://ecurat.md/assets/images/products/59/small/a8-01-montazhnaya-oblast-1.jpg",
-        "https://ecurat.md/assets/images/products/59/small/a8-01-montazhnaya-oblast-1.jpg"
-      ],
-      "name": "Таблетки Sun Professional Classic - 200 шт.",
-      "brand": "Kolin's",
-      "price": 675,
-      "category": "Посудомоечные машины",
-      "rating": 9
+      "avatar": "/src/assets/img/cadidats/02.png",
+      "name": "Narrative designer",
+      "author": "Invision",
+      "country": "Australia",
+      "salary": "8000",
+      "date": "08.02.2023",
+      "rating": "3",
+      "text": "Frogwares is currently looking for a Narrative Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games which are highly praised by millions of players, as well as industry experts all over the world.",
+      "category": "Design",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "0-2 years",
+      "level": "Junior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
     },
     {
       "id": 7,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg",
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg",
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Таблетки Sun Professional Classic - 200 шт.",
-      "types": [
-        0,
-        1
-      ],
-      "sizes": [
-        26,
-        30,
-        40
-      ],
-      "price": 450,
-      "category": "Гриль, духовки, печи",
-      "rating": 10
+      "avatar": "/src/assets/img/cadidats/03.png",
+      "name": "UX UI Designer - Intermediate Position",
+      "author": "Spotify",
+      "country": "Germany",
+      "salary": "7000",
+      "date": "10.04.2023",
+      "rating": "2",
+      "text": "At Remitbee, we value innovation and diversity to help our team, and the world thrive. In a culture that promotes ethical values, mentorship, flexibility, and inclusion",
+      "category": "Design",
+      "types": "No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
     },
     {
       "id": 8,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Четыре сезона",
-      "brand": "Kolin's",
-      "price": 395,
-      "category": "Ванные комнаты, туалеты",
-      "rating": 10
+      "avatar": "/src/assets/img/cadidats/04.png",
+      "name": "Quest designer",
+      "author": "Airbnb",
+      "country": "Moldova",
+      "date": "09.01.2023",
+      "salary": "7000",
+      "rating": "4",
+      "category": "Design",
+      "text": "Frogwares is currently looking for a Quest Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games that are highly praised by millions of players, as well as industry experts all over the world.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "10 years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
     },
     {
       "id": 9,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Овощи и грибы 🌱",
-      "brand": "Kolin's",
-      "price": 285,
-      "category": "Ванные комнаты, туалеты",
-      "rating": 7
+      "avatar": "/src/assets/img/cadidats/05.png",
+      "name": "Middle Product UX Designer",
+      "author": "Google",
+      "country": "Moldova",
+      "salary": "7000",
+      "rating": "2",
+      "category": "Design",
+      "text": "You will be part of the core team that has full control over the ‘what’ and ‘how’ of the digital product, and report directly to the Covantis design lead. You will help decide what the product looks like and how it behaves, working alongside designers, researchers, developers, product managers, and salespeople.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "date": "08.01.2023",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "author": "romancazac999@gmail.com",
+      "name": "Product Designer - Racuten Analytics",
+      "salary": "4000",
+      "avatar": "/src/assets/img/cadidats/01.png",
+      "experience": "6-9 years",
+      "category": "Marketing",
+      "types": "Hourly",
+      "text": "Full stack developer Magic is an international SaaS technology company. Our flagship product is an SMS messaging platform used worldwide (including the USA, UK, Canada, and Australia)...",
+      "checkbox": true,
+      "rating": "0",
+      "date": "8 май 2023",
+      "country": "Moldova",
+      "id": 10
+    }
+  ],
+  "candidats": [
+    {
+      "id": 1,
+      "avatar": "/src/assets/img/cadidats/01.png",
+      "name": "Syeda Johnston, 22 y.o.",
+      "author": "Racuten",
+      "country": "Afghanistan",
+      "date": "08.04.2023",
+      "salary": "8000",
+      "text": "Part-time. 2.6 years experience. Higher education",
+      "category": "Develope",
+      "types": "Fulltime",
+      "experience": "3-5 years",
+      "level": "Middle Level",
+      "rating": "5",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 2,
+      "avatar": "/src/assets/img/cadidats/02.png",
+      "name": "Narrative designer",
+      "author": "Syeda Johnston, 22 y.o.",
+      "country": "Australia",
+      "salary": "8000",
+      "date": "08.02.2023",
+      "rating": "3",
+      "text": "Frogwares is currently looking for a Narrative Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games which are highly praised by millions of players, as well as industry experts all over the world.",
+      "category": "Design",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "0-2 years",
+      "level": "Junior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 3,
+      "avatar": "/src/assets/img/cadidats/03.png",
+      "name": "UX UI Designer - Intermediate Position",
+      "author": "Spotify",
+      "country": "Germany",
+      "salary": "7000",
+      "date": "10.04.2023",
+      "rating": "2",
+      "text": "At Remitbee, we value innovation and diversity to help our team, and the world thrive. In a culture that promotes ethical values, mentorship, flexibility, and inclusion",
+      "category": "Design",
+      "types": "No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 4,
+      "avatar": "/src/assets/img/cadidats/04.png",
+      "name": "Quest designer",
+      "author": "Airbnb",
+      "country": "Moldova",
+      "date": "09.01.2023",
+      "salary": "7000",
+      "rating": "4",
+      "category": "Design",
+      "text": "Frogwares is currently looking for a Quest Designer to join the dynamic team of game designers for its upcoming titles. Our expert team creates games that are highly praised by millions of players, as well as industry experts all over the world.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "10+ years",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    },
+    {
+      "id": 5,
+      "avatar": "/src/assets/img/cadidats/05.png",
+      "name": "Middle Product UX Designer",
+      "author": "Google",
+      "country": "Moldova",
+      "salary": "7000",
+      "rating": "2",
+      "category": "Design",
+      "text": "You will be part of the core team that has full control over the ‘what’ and ‘how’ of the digital product, and report directly to the Covantis design lead. You will help decide what the product looks like and how it behaves, working alongside designers, researchers, developers, product managers, and salespeople.",
+      "types": "Fulltime,No experience,Internship/Trainee,Remote ",
+      "experience": "6-9 years",
+      "date": "08.01.2023",
+      "level": "Senior Level",
+      "requirements": [
+        "At least 3 years of experience on a similar position;",
+        "English – Upper intermediate (B2) or higher;",
+        "Strong dramatic writing skills in English;",
+        "Deep understanding of story structure, non-linear narrative methods;",
+        "Passion for video games of various genres, especially for the open-world genre;"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "img": "/src/assets/img/blog/01.jpg",
+      "name": "Working Multiple Remote Jobs: What You Need to know",
+      "date": "9 Sep 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "4"
+    },
+    {
+      "id": 2,
+      "img": "/src/assets/img/blog/b1.png",
+      "name": "How to Figure Out If a Potential Employer Offers Paid Leave",
+      "date": "9 Sep 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "4"
+    },
+    {
+      "id": 3,
+      "img": "/src/assets/img/blog/b2.png",
+      "name": "The Hidden Savings (and Costs) of Working From Home",
+      "date": "28 Oct 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "4"
+    },
+    {
+      "id": 4,
+      "img": "/src/assets/img/blog/b3.png",
+      "name": "25 Companies Hiring for Remote, Work-From-Home Jobs Right Now",
+      "date": "21 Aug 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "5"
+    },
+    {
+      "id": 5,
+      "img": "/src/assets/img/blog/b4.png",
+      "name": "How Working From Home Can Reduce Stress",
+      "date": "9 Sep 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "5"
+    },
+    {
+      "id": 6,
+      "img": "/src/assets/img/blog/b5.png",
+      "name": "How intrapreneurship can help you stand out at work ",
+      "date": "9 Apr 2023",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "5"
+    },
+    {
+      "id": 7,
+      "img": "/src/assets/img/blog/b6.png",
+      "name": "How to Know Your Resume Is Ready to be Submitted",
+      "date": "20 Apr 2023",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Interviews",
+      "rating": "5"
+    },
+    {
+      "id": 8,
+      "img": "/src/assets/img/blog/b7.png",
+      "name": "How to Sharpen Your Social Skills When You WFH",
+      "date": "11 Apr 2023",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Interviews",
+      "rating": "5"
+    },
+    {
+      "id": 9,
+      "img": "/src/assets/img/blog/b8.png",
+      "name": "How to explain why you’re right for the job",
+      "date": "15 Aug 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Interviews",
+      "rating": "4"
     },
     {
       "id": 10,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Таблетки Sun Professional Classic - 200 шт.",
-      "brand": "Cif",
-      "price": 285,
-      "category": "Ванные комнаты, туалеты",
-      "rating": 7
+      "img": "/src/assets/img/blog/b9.png",
+      "name": "How do you answer the question, “How do you like to be managed?”",
+      "date": "16 May 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "5"
     },
     {
       "id": 11,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg",
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg",
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Таблетки Sun Professional Classic - 200 шт.",
-      "brand": "Cif",
-      "price": 450,
-      "category": "Ванные комнаты, туалеты",
-      "rating": 10
-    },
-    {
-      "id": 12,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Четыре сезона",
-      "brand": "Cif",
-      "price": 395,
-      "category": "Посудомоечные машины",
-      "rating": 10
-    },
-    {
-      "id": 13,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "name": "Овощи и грибы 🌱",
-      "brand": "Cif",
-      "price": 285,
-      "category": "Стекло, мебель, пол",
-      "rating": 7
-    },
-    {
-      "id": 14,
-      "imageUrl": [
-        "https://www.ecurat.md/storage/uploads/6c7fa231-3fc6-45d6-a6df-19435c03bbe4/manudish-d1new.jpg"
-      ],
-      "brand": "Cif",
-      "price": 285,
-      "category": "Стекло, мебель, пол",
-      "rating": 7
+      "img": "/src/assets/img/blog/b10.png",
+      "name": "Tips for shaking your job interview jitters",
+      "date": "24 Dec 2022",
+      "text": "In the office office, your colleagues often pose the greatest threat to keeping you from getting some real, heads-down work done. They drop by your desk, engage you in conversation, and invite you to lunch — or so I hear. The social benefits are nice to have, but they can become a challenge if you're easily distracted. However, at the home office, while family members can be a distraction, I find that it's easy for you to become your own worst enemy. Because without coworkers around, you’re free to drop those pesky inhibitions. At the home office, no one's watching. You don't necessarily feel that same peer pressure or communal obligation to get stuff done. (Also, you don't have to wear pants.) ",
+      "category": "Career Tips",
+      "rating": "4"
     }
   ],
-  "categories": [
+  "apply": [
     {
-      "id": 0,
-      "name": "Моющие средства",
-      "subcategory": [
-        {
-          "id": 0,
-          "name": "Кухни"
-        },
-        {
-          "id": 1,
-          "name": "Ручная мойка посуды"
-        },
-        {
-          "id": 2,
-          "name": "Посудомоечные машины"
-        },
-        {
-          "id": 3,
-          "name": "Гриль, духовки, печи"
-        },
-        {
-          "id": 4,
-          "name": "Ванные комнаты, туалеты"
-        },
-        {
-          "id": 5,
-          "name": "Стекло, мебель, пол"
-        },
-        {
-          "id": 6,
-          "name": "Дезинфектанты"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Товары из бумаги",
-      "subcategory": [
-        {
-          "id": 7,
-          "name": "Полотенца для рук"
-        },
-        {
-          "id": 8,
-          "name": "Туалетная бумага, полотенца"
-        },
-        {
-          "id": 9,
-          "name": "Салфетки"
-        },
-        {
-          "id": 10,
-          "name": "Медицинские простыни в рулонах"
-        },
-        {
-          "id": 11,
-          "name": "Протирочная бумага в рулонах"
-        }
-      ]
-    }
-  ],
-  "comands": [
-    {
-      "name": "Roman",
-      "phone": "+374 69046330",
-      "title": "Рассчитайте стоимость, указав длину и ширину, или сразу площадь:",
-      "area": 1575,
+      "email": "gh@dgfg",
+      "file": "C:\\fakepath\\315222649_797770061294384_7071935775069182972_n.jpg",
+      "phone": "0500000",
+      "username": "fhh",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
       "id": 1
     },
     {
-      "name": "Cazac Roman",
-      "phone": "69046330",
-      "title": "Рассчитайте стоимость, указав длину и ширину, или сразу площадь:",
-      "area": 0,
+      "email": "gh@dgfg",
+      "file": "C:\\fakepath\\315222649_797770061294384_7071935775069182972_n.jpg",
+      "phone": "0500000",
+      "username": "fhh",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
+      "id": 2
+    },
+    {
+      "email": "adsfdsaf@fdgfg.md",
+      "file": "C:\\fakepath\\315222649_797770061294384_7071935775069182972_n.jpg",
+      "phone": "069046330",
+      "username": "Jora",
+      "title": "Product Designer - Racuten Analytics",
+      "applyId": 1,
+      "id": 3
+    },
+    {
+      "email": "cristina@gmail.com",
+      "file": "",
+      "phone": "06049600",
+      "username": "romancazac999@gmail.com",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
+      "id": 4
+    },
+    {
+      "email": "cristina@gmail.com",
+      "file": "",
+      "phone": "06049600",
+      "username": "romancazac999@gmail.com",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
+      "id": 5
+    },
+    {
+      "email": "romancazac23@icloud.com",
+      "file": "",
+      "phone": "+374 69046330",
+      "username": "romancazac999@gmail.com",
+      "title": "Middle Product UX Designer",
+      "applyId": 5,
+      "id": 6
+    }
+  ],
+  "form-contacts": [
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "4",
+      "salesSize": "3",
+      "message": "Mesage",
+      "id": 1
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
       "id": 2
     },
     {
       "name": "Roman",
-      "phone": "+374 69046330",
-      "title": "Рассчитайте стоимость, указав длину и ширину, или сразу площадь:",
-      "area": 1575,
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
       "id": 3
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 4
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 5
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 6
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 7
+    },
+    {
+      "name": "Roman",
+      "firstname": "Cazac",
+      "email": "romancazac23@icloud.com",
+      "company": "Man",
+      "checkbox": true,
+      "companySize": "1",
+      "salesSize": "1",
+      "message": "Mesage",
+      "id": 8
+    },
+    {
+      "name": "Roman",
+      "firstname": "Roman",
+      "email": "romancazac23@icloud.com",
+      "company": "fghgfhdsfdsfdsfdsf",
+      "checkbox": true,
+      "companySize": "3",
+      "salesSize": "4",
+      "message": "fgthfgh",
+      "id": 9
+    },
+    {
+      "name": "Roman",
+      "firstname": "Roman",
+      "email": "romancazac@yahoo.com",
+      "company": "fghgfhdsfdsfdsfdsf",
+      "checkbox": true,
+      "companySize": "3",
+      "salesSize": "2",
+      "message": "yuii",
+      "id": 10
+    },
+    {
+      "name": "Roman",
+      "firstname": "Roman",
+      "email": "romancazac@yahoo.com",
+      "company": "fghgfhdsfdsfdsfdsf",
+      "checkbox": true,
+      "companySize": "3",
+      "salesSize": "2",
+      "message": "yuii",
+      "id": 11
     }
   ],
-  "news":[
+  "testQuestion": [
     {
-      "id": "1",
-      "title": "Очищение ковров",
-      "date":"2 iunie",
-      "text": "Большинство производителей ковров рекомендуют чистку паром или системами, использующими воду высокой температуры. Чистящие средства должны соответствовать типу волокна, из которого изготовлен ковер. Синтетические волокна наиболее практичны и легко поддаются чистке. Для натуральных волокон, будь то лен, джут, шерсть или шелк, следует использовать специальное ковровое мыло или шампунь, не содержащие химических веществ, которые могут разрушить волокна.     Если вы решили чистить ковры дома, примите во внимание несколько советов:     Глубокую чистку ковров следует проводить до того, как они станут очень грязными, иначе это будет очень сложно. Частота чистки зависит от интенсивности движения в вашем доме (учитывайте домашних животных), а также от типа ковров. Толстые ковры из натуральных волокон следует чистить чаще, ковры и синтетические ковры - реже, именно потому, что их регулярный уход эффективен.   Тщательно пылесосьте ковер как до, так и после чистки: перед чисткой его следует пропылесосить, чтобы удалить как можно больше загрязнений, а после чистки водой, паром или различными растворами - чтобы собрать остатки загрязнений, удаленных при чистке, и подцепить нити ткани.   Для трудновыводимых пятен существуют решения в зависимости от типа пятна и его возраста. Вы можете использовать коммерческие растворы для чистки ковров на основе пены, а также растворители или растворы, которые все равно есть у вас дома. Очистите место, где есть пятно, но также и вокруг пятна, чтобы не оставить на ковре яркий глаз, такой же заметный, как и пятно.   Всегда используйте тряпку или губку и никогда не лейте раствор для чистки ковров прямо на пятно.  Моющее средство для мытья посуды также очень хорошо подходит для ковров. Смешайте чайную ложку жидкости для мытья посуды с чашкой горячей воды. Немедленно используйте раствор для удаления пятен от пищи и жира. Используйте губку, смоченную в растворе, хорошо потрите пятно, а затем промокните пятно салфеткой и/или пропылесосьте.    Используйте масло-растворитель или жидкость для снятия ла",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/03.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
-
+      "id": 1,
+      "intrebare": "Care este rezultatul următoarei expresii: 3 + 2 * 4?",
+      "raspunsuri": [
+        {
+          "text": "11",
+          "corect": false
+        },
+        {
+          "text": "20",
+          "corect": false
+        },
+        {
+          "text": "14",
+          "corect": true
+        },
+        {
+          "text": "9",
+          "corect": false
+        }
+      ]
     },
     {
-      "id": "2",
-      "title": "Очищение ковров",
-      "date":"2 iunie",
-      "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
-
+      "id": 2,
+      "intrebare": "Ce metoda este folosită pentru a converti un șir de caractere într-un număr în JavaScript?",
+      "raspunsuri": [
+        {
+          "text": "parseInt()",
+          "corect": true
+        },
+        {
+          "text": "parseFloat()",
+          "corect": false
+        },
+        {
+          "text": "convertToNumber()",
+          "corect": false
+        },
+        {
+          "text": "toNumber()",
+          "corect": false
+        }
+      ]
     },
     {
-      "id": "3",
-      "title": "Очищение ковров",
-      "date":"2 iunie",
-      "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
-
+      "id": 3,
+      "intrebare": "Care este rezultatul următoarei expresii: '2' + 3 + 4?",
+      "raspunsuri": [
+        {
+          "text": "234",
+          "corect": true
+        },
+        {
+          "text": "9",
+          "corect": false
+        },
+        {
+          "text": "7",
+          "corect": false
+        },
+        {
+          "text": "23",
+          "corect": false
+        }
+      ]
     },
     {
-      "id": "4",
-      "title": "Очищение ковров",
-      "date":"9 iunie",
-      "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
-
+      "id": 4,
+      "intrebare": "Ce metodă este folosită pentru a verifica dacă un obiect are o anumită proprietate în JavaScript?",
+      "raspunsuri": [
+        {
+          "text": "hasOwnProperty()",
+          "corect": true
+        },
+        {
+          "text": "checkProperty()",
+          "corect": false
+        },
+        {
+          "text": "isPropertyPresent()",
+          "corect": false
+        },
+        {
+          "text": "containsProperty()",
+          "corect": false
+        }
+      ]
     },
     {
-      "id": "5",
-      "title": "Очищение ковров",
-      "date":"2 iunie",
-      "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
-
+      "id": 5,
+      "intrebare": "Care dintre următoarele opțiuni este un mod corect de a crea un array vid în JavaScript?",
+      "raspunsuri": [
+        {
+          "text": "var arr = [];",
+          "corect": true
+        },
+        {
+          "text": "var arr = new Array();",
+          "corect": false
+        },
+        {
+          "text": "var arr = {};",
+          "corect": false
+        },
+        {
+          "text": "var arr = [null];",
+          "corect": false
+        }
+      ]
     },
     {
-      "id": "7",
-      "title": "Очищение ковров",
-      "date":"10 iunie",
-      "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
-
+      "id": 6,
+      "intrebare": "Ce metoda este folosită pentru a adăuga un element la sfârșitul unui array în JavaScript?",
+      "raspunsuri": [
+        {
+          "text": "push()",
+          "corect": true
+        },
+        {
+          "text": "add()",
+          "corect": false
+        },
+        {
+          "text": "insert()",
+          "corect": false
+        },
+        {
+          "text": "append()",
+          "corect": false
+        }
+      ]
     },
     {
-      "id": "6",
-      "date":"2 iunie",
-      "title": "Очищение ковров",
-      "text": "Первым шагом в очистке является подготовка целевого участка. Как вы это делаете? Сначала уберите из ванной комнаты все, что может быть неудобно при уборке. Выбрасывайте пустые флаконы из-под шампуня, старые зубные щетки и т.д. Все, чему не место в ванной комнате, будет удалено. Вы уберете предметы мебели, корзины для белья, то есть все, что может мешать вам во время уборки. Это поможет вам лучше убирать везде.Следует также почистить занавеску для душа, будь она синтетической, виниловой или хлопковой. Его не нужно слишком часто стирать, можно даже использовать стиральную машину без программы отжима. Чтобы высушить, просто повесьте его в ванной в душевой зоне. Конечно, вы можете постирать его и вручную, это не займет много времени. Используйте немного отбеливателя, добавьте немного средства для мытья посуды и воды. Используйте бутылку с распылителем, которая есть у вас дома - обычно она используется для мытья окон, - чтобы распылить эту смесь на душевую занавеску, оставьте примерно на 10 минут, затем смойте.",
-      "images": ["https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/01.png","https://www.ecurat.md/storage/uploads/4aece5c8-5552-4686-bb60-34d06158fc03/04.png"]
-
+      "id": 7,
+      "intrebare": "Care este rezultatul următoarei expresii: typeof null?",
+      "raspunsuri": [
+        {
+          "text": "'object'",
+          "corect": true
+        },
+        {
+          "text": "'null'",
+          "corect": false
+        },
+        {
+          "text": "'undefined'",
+          "corect": false
+        },
+        {
+          "text": "'string'",
+          "corect": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "intrebare": "Ce metoda este folosită pentru a returna valoarea absolută a unui număr în JavaScript?",
+      "raspunsuri": [
+        {
+          "text": "Math.abs()",
+          "corect": true
+        },
+        {
+          "text": "Math.absolute()",
+          "corect": false
+        },
+        {
+          "text": "Math.value()",
+          "corect": false
+        },
+        {
+          "text": "Math.absoluteValue()",
+          "corect": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "intrebare": "Ce operator este folosit pentru a verifica egalitatea strictă în JavaScript?",
+      "raspunsuri": [
+        {
+          "text": "===",
+          "corect": true
+        },
+        {
+          "text": "==",
+          "corect": false
+        },
+        {
+          "text": "=",
+          "corect": false
+        },
+        {
+          "text": "!==",
+          "corect": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "intrebare": "Ce metoda este folosită pentru a transforma un șir de caractere în litere mari în JavaScript?",
+      "raspunsuri": [
+        {
+          "text": "toUpperCase()",
+          "corect": true
+        },
+        {
+          "text": "toUpper()",
+          "corect": false
+        },
+        {
+          "text": "toUpperCaseCase()",
+          "corect": false
+        },
+        {
+          "text": "toCase()",
+          "corect": false
+        }
+      ]
     }
   ]
 }
