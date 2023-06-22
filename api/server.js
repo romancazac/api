@@ -59,39 +59,7 @@ server.get('/users', (req, res) => {
     res.status(401).jsonp({ error: 'Token invalid' });
   }
 });
-// Funcție helper pentru a găsi indexul obiectului în array-ul "profile-info" după ID
-function findObjectIndexById(id) {
-  const profileInfo = router.db.get('profile-info').value();
-  return profileInfo.findIndex((obj) => obj.id === id);
-}
 
-// Funcție helper pentru a actualiza obiectul din array-ul "profile-info"
-function updateObject(id, updates) {
-  const index = findObjectIndexById(id);
-  if (index !== -1) {
-    const profileInfo = router.db.get('profile-info').value();
-    const updatedObject = {
-      ...profileInfo[index],
-      ...updates,
-    };
-    router.db.get('profile-info').splice(index, 1, updatedObject).write();
-    return updatedObject;
-  }
-  return null;
-}
-// Endpoint pentru actualizarea obiectelor
-server.patch('/profile-info/:id/:objectId', (req, res) => {
-  const { id, objectId } = req.params;
-  const updates = req.body;
-
-  const updatedObject = updateObject(id, { [objectId]: updates });
-
-  if (updatedObject) {
-    res.status(200).jsonp(updatedObject);
-  } else {
-    res.status(404).jsonp({ error: 'Obiectul nu a fost găsit' });
-  }
-});
 server.use(router);
 server.listen(3000, () => {
   console.log('JSON Server is running');
